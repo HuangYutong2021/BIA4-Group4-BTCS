@@ -2,6 +2,8 @@
 
 BTCS is a software that helps to classify histopathological images of breast tumours into benign and malignant. Besides, this software can segment the nucleus on the input histopathological images and give some cell properties like cell number, nuclear area, length and eccentricity. Now, let's take a closer look at how to use BTCS!
 
+Group Members: Huang Yutong, Xu Zhoutong, Chen Zhitian, Lao Shuxuan, Ou Yutao, Wang Yufei
+
 #### Dependencies:
 
 - numpy
